@@ -1,5 +1,5 @@
 # MaxMin Manufacturing Power BI Report
-This repository contains the Power BI report developed for MaxMinManufacturing. The report provides actionable insights into rejected products across their plants, machines, and time periods from 2013 to 2015. Designed to support operational efficiency, the dashboard is interactive and allows stakeholders to drill down into specific areas of interest..<br><br>
+This repository contains the Power BI report developed for MaxMinManufacturing. The report provides actionable insights into rejected products across their plants, machines, and time periods from 2013 to 2015. It is designed to support operational efficiency, the dashboard is interactive and allows stakeholders to drill down into specific areas of interest.<br><br>
 
 
 **Table of Contents**
@@ -58,7 +58,7 @@ The dataset includes information from MaxMin Manufacturing plants covering the p
 
   
 3. **Data Modeling**
-- Established relationships between tables using star schema for efficient reporting.
+- Established relationships between tables using snowflake schema for efficient reporting.
   
 - Created calculated columns and measures in DAX to derive insights such as total rejected products, proportions by machine type, and monthly trends.<br><br>
   
@@ -68,9 +68,8 @@ The dataset includes information from MaxMin Manufacturing plants covering the p
 
 - Line Chart: Displayed monthly trends for rejected products.
 
-- Pie Chart: Illustrated the proportions of rejected products by machine type.
+- Pie Chart: Illustrated the proportions of rejected products by machine type.<br><br>
 
-- Filters and Slicers: Enabled interactive filtering by plant, machine type, and time period.<br><br>
 
 5. **Interactivity Features**
 - Incorporated drill-down/drill-up functionality to allow stakeholders to view detailed insights by plant, machine type, and specific months.
@@ -79,19 +78,17 @@ The dataset includes information from MaxMin Manufacturing plants covering the p
 
 ## Key Insights
 
-- **Plant Performance:** Fridley Plant in the USA had the highest rejected products: 64,195 over three years. Kawaguchi Plant in Japan had the lowest rejected products: 21,561, indicating variability in rejection rates across plant.<br><br>
+- **Plant Performance:** Fridley Plant in the USA had the highest rejected products with 64,195 over three years. Kawaguchi Plant in Japan had the lowest rejected products with 21,561, indicating variability in rejection rates across plant.<br><br>
 
-- **Monthly Trends:** Peaks were observed in August and September, with approximately 9,600 rejected products each month, highlighting potential seasonal production challenges.<br><br>
+- **Monthly Trends:** Peaks were observed in August and September, with approximately 9,600 rejected products each month across the 3 year period, highlighting potential seasonal production challenges.<br><br>
 
-- **Machine Performance:** The Clay Molder was the top machine type for rejected products, contributing 40.28%, pointing to the need for maintenance or process improvements.<br><br>
+- **Machine Performance:** The Clay Molder machine was the top machine type for rejected products, contributing 40.28%, pointing to the need for preventive maintenance or process improvements.<br><br>
 
 # Future Enhancements
-- Add predictive analytics to forecast rejected product trends
+The current dashboard meets MaxMinManufacturing's key requirements, but there are several opportunities to enhance its functionality:
 
+- **Predictive Analytics:** Adding forecasting capabilities to help anticipate trends in rejected products and support proactive decision-making.<br><br>
 
-- Integrate real-time data from manufacturing systems for live reporting
+- **Real-Time Integration:** Connecting the dashboard to live data sources for real-time reporting and actionable insights.<br><br>
 
-
-- Expand analysis to include additional KPIs like production volume and machine downtime
-
-
+- **Broader Metrics:** Expanding the analysis to include additional KPIs, such as production volumes, downtime, and defect rates, for a more comprehensive view of operations.<br><br>
