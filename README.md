@@ -76,7 +76,7 @@ The dataset includes information from MaxMin Manufacturing plants covering the p
 
 - Enabled hover-over tooltips with additional metrics for context.<br><br>
 
-## Key Insights
+# Key Insights
 
 - **Plant Performance:** Fridley Plant in the USA had the highest rejected products with 64,195 over three years. Kawaguchi Plant in Japan had the lowest rejected products with 21,561, indicating variability in rejection rates across plant.<br><br>
 
