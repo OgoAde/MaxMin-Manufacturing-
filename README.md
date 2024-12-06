@@ -94,3 +94,6 @@ The current dashboard meets MaxMinManufacturing's key requirements, but there ar
 - **Real-Time Integration:** Connecting the dashboard to live data sources for real-time reporting and actionable insights.<br><br>
 
 - **Broader Metrics:** Expanding the analysis to include additional KPIs, such as production volumes, downtime, and defect rates, for a more comprehensive view of operations.<br><br>
+
+## Link to Dashboard
+https://tinyurl.com/56yrpczw
