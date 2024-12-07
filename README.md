@@ -75,7 +75,7 @@ The dataset includes information from MaxMin Manufacturing plants covering the p
 - Incorporated drill-down/drill-up functionality to allow stakeholders to view detailed insights by plant, machine type, and specific months.
 
 - Enabled hover-over tooltips with additional metrics for context.<br><br>
-![Dashboard Screenshot](https://github.com/OgoAde/MaxMin-Manufacturing-/blob/main/Screenshot%202024-12-06%20121301.png)
+![Dashboard Screenshot](https://drive.google.com/uc?id=1XY_PzBuNwXHUg7rd0DR6xq-BN-ZcIrRp)
 
 # Key Insights
 
@@ -84,8 +84,8 @@ The dataset includes information from MaxMin Manufacturing plants covering the p
 - **Monthly Trends:** Peaks were observed in August and September, with approximately 9,600 rejected products each month across the 3 year period, highlighting potential seasonal production challenges.<br><br>
 
 - **Machine Performance:** The Clay Molder machine was the top machine type for rejected products, contributing 40.28%, pointing to the need for preventive maintenance or process improvements.<br><br>
-![Dashboard Screenshot](https://github.com/OgoAde/MaxMin-Manufacturing-/blob/main/Screenshot%202024-12-06%20121420.png)
-![Dashboard Screenshot](https://github.com/OgoAde/MaxMin-Manufacturing-/blob/main/Screenshot%202024-12-06%20121341.png)
+![Dashboard Screenshot](https://drive.google.com/uc?id=1V2s1CZB4fDa3w_J3HIsvrr4Ul2bc9ECZ)
+![Dashboard Screenshot](https://drive.google.com/uc?id=1HptIYk5LneXF_G8c805JJR_eqhsGC13u).<br><br>
 # Future Enhancements
 The current dashboard meets MaxMinManufacturing's key requirements, but there are several opportunities to enhance its functionality:
 
@@ -96,4 +96,4 @@ The current dashboard meets MaxMinManufacturing's key requirements, but there ar
 - **Broader Metrics:** Expanding the analysis to include additional KPIs, such as production volumes, downtime, and defect rates, for a more comprehensive view of operations.<br><br>
 
 ## Link to Dashboard
-https://tinyurl.com/56yrpczw
+[Explore the Dashboard](https://tinyurl.com/56yrpczw)
