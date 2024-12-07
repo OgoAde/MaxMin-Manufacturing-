@@ -73,9 +73,12 @@ The dataset includes information from MaxMin Manufacturing plants covering the p
 
 5. **Interactivity Features**
 - Incorporated drill-down/drill-up functionality to allow stakeholders to view detailed insights by plant, machine type, and specific months.
-
+  
 - Enabled hover-over tooltips with additional metrics for context.<br><br>
-![Dashboard Screenshot](https://drive.google.com/uc?id=1XY_PzBuNwXHUg7rd0DR6xq-BN-ZcIrRp)
+
+
+![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1XY_PzBuNwXHUg7rd0DR6xq-BN-ZcIrRp).<br><br>
+
 
 # Key Insights
 
