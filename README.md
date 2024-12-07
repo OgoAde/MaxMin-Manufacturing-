@@ -98,5 +98,5 @@ The current dashboard meets MaxMinManufacturing's key requirements, but there ar
 
 - **Broader Metrics:** Expanding the analysis to include additional KPIs, such as production volumes, downtime, and defect rates, for a more comprehensive view of operations.<br><br>
 
-## Link to Dashboard
+# Link to Dashboard
 [Explore the Dashboard](https://tinyurl.com/56yrpczw)
